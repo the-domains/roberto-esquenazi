@@ -1,0 +1,37 @@
+typography_spectrum: 0.8907911636194418
+color:
+  brandStrength: 0.7412507060136978
+  lightness: 0.6222452984991862
+  saturation: 0.6521377630130674
+  rhythmicContrast: 0.05126378596668123
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+layout_spectrum: 0.6432766186171165
+name: Roberto Esquenazi
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: View in Google Drive
+    url: 'https://drive.google.com/open?id=10xJm9C3t9reB0B06u7K9pb5eTwnmubSX'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bd0fb5a-6f1c-4804-966f-dc0a4928fc64.jpg
+title: Roberto Esquenazi
+content: []
+description: My Virtual Portfolio
+purpose:
+  - type: contact
+    url: 'mailto:robertoesquenazi@gmail.com'
+    label: Email Me
+github: true
+analytics:
+  google: ''
