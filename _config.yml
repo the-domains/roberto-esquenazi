@@ -28,11 +28,11 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: View in Google Drive
-    url: 'https://drive.google.com/open?id=10xJm9C3t9reB0B06u7K9pb5eTwnmubSX'
-    type: external
   - name: Social
     url: 'https://linktr.ee/rubbertoe3'
+    type: external
+  - name: View in Google Drive
+    url: 'https://drive.google.com/open?id=10xJm9C3t9reB0B06u7K9pb5eTwnmubSX'
     type: external
   - name: Credits
     id: 50c81b70-2742-4766-ab85-5e47498af8c9
