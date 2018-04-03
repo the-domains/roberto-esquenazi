@@ -35,3 +35,8 @@ purpose:
 github: true
 analytics:
   google: UA-112930135-1
+author:
+  name: Roberto Esquenazi
+  email: robertoesquenazi@gmail.com
+opengraph:
+  appId: ''
