@@ -10,7 +10,15 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
+github: true
+opengraph:
+  appId: ''
 layout_spectrum: 0.6432766186171165
+analytics:
+  google: UA-112930135-1
+author:
+  name: Roberto Esquenazi
+  email: robertoesquenazi@gmail.com
 name: Roberto Esquenazi
 colors:
   brandColors:
@@ -23,6 +31,9 @@ navigation:
   - name: View in Google Drive
     url: 'https://drive.google.com/open?id=10xJm9C3t9reB0B06u7K9pb5eTwnmubSX'
     type: external
+  - name: Credits
+    id: 50c81b70-2742-4766-ab85-5e47498af8c9
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bd0fb5a-6f1c-4804-966f-dc0a4928fc64.jpg
 title: Roberto Esquenazi
@@ -32,11 +43,3 @@ purpose:
   - type: contact
     url: 'mailto:robertoesquenazi@gmail.com'
     label: Email Me
-github: true
-analytics:
-  google: UA-112930135-1
-author:
-  name: Roberto Esquenazi
-  email: robertoesquenazi@gmail.com
-opengraph:
-  appId: ''
