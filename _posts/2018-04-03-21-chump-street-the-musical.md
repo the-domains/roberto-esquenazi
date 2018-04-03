@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: Light Design
-dateModified: '2018-04-03T11:07:05.961Z'
-datePublished: '2018-04-03T11:07:06.360Z'
+dateModified: '2018-04-03T11:07:27.163Z'
+datePublished: '2018-04-03T11:07:27.514Z'
 title: '21 Chump Street: The Musical'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-04-03-21-chump-street-the-musical.md
 starred: false
 datePublishedOriginal: '2018-04-03T11:07:06.360Z'
-sourcePath: _posts/2018-04-03-21-chump-street-the-musical.md
 _type: Blurb
 
 ---
