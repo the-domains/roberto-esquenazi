@@ -34,6 +34,9 @@ navigation:
   - name: Credits
     id: 50c81b70-2742-4766-ab85-5e47498af8c9
     type: content
+  - name: Social
+    url: 'https://linktr.ee/rubbertoe3'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bd0fb5a-6f1c-4804-966f-dc0a4928fc64.jpg
 title: Roberto Esquenazi
