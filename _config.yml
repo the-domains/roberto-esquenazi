@@ -48,4 +48,4 @@ purpose:
     label: Email Me
   - type: external
     url: 'https://api.whatsapp.com/send?phone=50761308800'
-    label: Message Me
+    label: Whatsapp
