@@ -46,3 +46,6 @@ purpose:
   - type: contact
     url: 'mailto:robertoesquenazi@gmail.com'
     label: Email Me
+  - type: external
+    url: 'https://api.whatsapp.com/send?phone=50761308800'
+    label: Message Me
