@@ -55,8 +55,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/SaqpPHzCxPk'
 title: Relative Pitch
-datePublished: '2018-04-03T12:36:16.247Z'
-dateModified: '2018-04-03T12:35:49.223Z'
+datePublished: '2018-09-11T14:51:39.824Z'
+dateModified: '2018-09-11T14:51:38.871Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-12-06-relative-pitch.md
