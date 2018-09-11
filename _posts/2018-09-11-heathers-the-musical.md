@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: Light Design
-dateModified: '2018-09-11T14:51:05.649Z'
-datePublished: '2018-09-11T14:51:06.439Z'
+dateModified: '2018-09-11T14:51:38.871Z'
+datePublished: '2018-09-11T14:51:39.822Z'
 title: 'Heathers: The Musical'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-09-11-heathers-the-musical.md
 starred: false
 datePublishedOriginal: '2018-09-11T14:51:06.439Z'
-sourcePath: _posts/2018-09-11-heathers-the-musical.md
 _type: Blurb
 
 ---
