@@ -53,8 +53,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/ieT5PPP-N5k'
 title: Implicados Projection Mapping
-datePublished: '2018-04-03T12:36:16.226Z'
-dateModified: '2018-04-03T12:35:49.223Z'
+datePublished: '2018-09-11T14:51:39.813Z'
+dateModified: '2018-09-11T14:51:38.871Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-12-06-implicados-projection-mapping.md
