@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-09-11T14:52:13.261Z'
-datePublished: '2018-09-11T14:52:13.570Z'
+dateModified: '2018-09-11T14:55:12.551Z'
+datePublished: '2018-09-11T14:55:13.010Z'
 title: Projection Design
 author: []
 publisher: {}
