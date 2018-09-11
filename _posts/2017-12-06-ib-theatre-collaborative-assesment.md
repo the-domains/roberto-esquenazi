@@ -53,8 +53,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/kslzN5qLnOY'
 title: IB Theatre Collaborative Assesment
-datePublished: '2018-09-11T14:52:13.669Z'
-dateModified: '2018-09-11T14:52:13.261Z'
+datePublished: '2018-09-11T14:55:13.024Z'
+dateModified: '2018-09-11T14:55:12.551Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-12-06-ib-theatre-collaborative-assesment.md
