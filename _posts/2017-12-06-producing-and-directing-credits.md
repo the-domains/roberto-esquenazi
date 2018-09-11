@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Produced three musicals whilst completing my junior and senior years of high
   school
-dateModified: '2018-09-11T14:51:38.871Z'
-datePublished: '2018-09-11T14:51:39.820Z'
+dateModified: '2018-09-11T14:52:13.261Z'
+datePublished: '2018-09-11T14:52:13.663Z'
 title: Producing & Directing
 author: []
 publisher: {}
